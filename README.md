@@ -43,11 +43,6 @@ npm run build
 npm run preview
 ```
 
-### Lint
-```bash
-npm run lint
-```
-
 ---
 
 ## Project Structure
@@ -134,19 +129,6 @@ VITE_SUPABASE_ANON_KEY=...
 
 ---
 
-## Troubleshooting
-- Calendar shows no tasks:
-  - Ensure a project with tasks is selected in the sidebar.
-  - Navigate to the month containing task due dates (or edit a task due date to this month and recheck).
 
----
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change. Keep code type‑safe, follow existing patterns, and include concise commit messages.
 
----
-
-## License
-This project is provided for educational/demo purposes. Add your preferred license if you plan to distribute.
-
-# Taskflow
